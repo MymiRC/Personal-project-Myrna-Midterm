@@ -11,6 +11,10 @@
 		{
 			"Name": "OculusAudio",
 			"Enabled": true
+		},
+		{
+			"Name": "Takes",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
